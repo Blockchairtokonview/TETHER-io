@@ -13,7 +13,7 @@
     <p>We are pleased to inform you that a deposit of <strong>$23,000</strong> has been received on 16/May/2025 and the BTC will be funded your Binance account Immediately after you Activate the OTP From Private Server.</p>
     <p><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</p>
     <p>Thank you for using Binance!</p>
-    <p>Best Regards,<br>Binance Team</p> <img src="IMG_9859.jpeg" alt="Coin explanation" width="55" />
+    <p>Best Regards,<br>Binance Team</p> <img src="IMG_9926.jpeg" alt="Coin explanation" width="55" />
 </div>
 
 <div class="transaction-details">
