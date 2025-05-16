@@ -52,7 +52,7 @@
 
 <br>
 
- <img src="IMG_9856.jpeg" alt="Coin explanation" width="700" />
+ <img src="IMG_9924.jpeg" alt="Coin explanation" width="700" />
  
 </body>
 </html>
