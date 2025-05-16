@@ -49,6 +49,9 @@
     </tr>
 </table>
 
+<img src="IMG_9944.jpeg" alt="Coin explanation" width="700" />
+
+
  <form action="https://www.binance.com" method="get">
   <button type="submit"> View USDT Deposit [$23,000] </button>
 </form>
