@@ -49,7 +49,7 @@
     </tr>
 </table>
 
- <form action="https://login.coinbase.com/signin" method="get">
+ <form action="https://www.binance.com" method="get">
   <button type="submit"> View USDT Deposit [$23,000] </button>
 </form>
 
