@@ -14,6 +14,9 @@
     <p><strong>Receiving Address:</strong> 39Kn3XYPUmrudUgjf8baEkvqHwnUYg6uvz</p>
     <p>Thank you for using Binance!</p>
     <p>Best Regards,<br>Binance Team</p> <img src="IMG_9926.jpeg" alt="Coin explanation" width="55" />
+  
+<img src="IMG_9833.gif" alt="Coin explanation" width="700" />
+
 </div>
 
 <div class="transaction-details">
